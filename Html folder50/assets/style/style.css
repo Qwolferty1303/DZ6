@@ -1,0 +1,231 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* 4 */
+
+.box{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 5 */
+
+.box5{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box5{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box5{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+}
+.btn5{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 6 */
+
+.box6{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box6{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box6{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+}
+.btn6{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 7 */
+
+.box7{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box7{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box7{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+}
+.btn7{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 8 */
+
+.box8{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box8{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box8{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+.btn8{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 9 */
+
+.box9{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.inner-box9{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+.green-box9{
+    background-color:  green;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+.btn9{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* 10 */
+
+.box10{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.text{
+    color: azure;
+    font-size: 30px;
+}
+.inner-box-removable{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn10{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+
+/* 11 */
+
+.box11{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.text2{
+    color: azure;
+    font-size: 30px;
+}
+.inner-box-removable2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn11{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
